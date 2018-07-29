@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Crosshair.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Items\Potion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerControl.cs" Line="41" Column="47" />
+      <File FileName="Assets\Scripts\NPC\NPCControl.cs" Line="29" Column="62" />
+      <File FileName="Assets\Scripts\Player\Crosshair.cs" Line="10" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
